@@ -1,0 +1,8 @@
+{
+  "name": "Sovereign Kenya: Geopolitical Engine",
+  "description": "A grounded, data-driven geopolitical simulation of modern Kenya and global powers. Manage state security, causal policies, temporal fast-forwards, and regional diplomacy in a realistic Strategic Atlas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
